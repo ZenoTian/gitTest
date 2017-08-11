@@ -1,3 +1,4 @@
 初始化
 创建dev分支
 git merge fast-farward merge
+git merge no fast-farward merge
