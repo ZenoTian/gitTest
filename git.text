@@ -4,4 +4,5 @@ git merge fast-farward merge
 git merge no fast-farward merge
 test git merge
 通过source tree merge
-sourceTree的merge 是 fast-farward merge 
+sourceTree的merge 是 fast-farward merge
+no fast-farward merge 测试
