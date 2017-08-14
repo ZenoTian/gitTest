@@ -15,3 +15,5 @@ no fast-farward merge 测试
 
 test 分支 merge 的第一次
 test 分支 merge 的第二次
+
+代码会被覆盖的情况
