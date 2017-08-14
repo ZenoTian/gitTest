@@ -15,3 +15,9 @@ no fast-farward merge 测试
 
 test 分支 merge 的第一次
 test 分支 merge 的第二次
+
+<<<<<<< HEAD
+代码会被覆盖的情况
+=======
+代码覆盖的test2，到底会被覆盖到哪里
+>>>>>>> test2
