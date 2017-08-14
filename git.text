@@ -7,3 +7,4 @@ test git merge
 sourceTree的merge 是 fast-farward merge
 no fast-farward merge 测试
 两次 commit 的 merge 测试
+第二次 commit 
