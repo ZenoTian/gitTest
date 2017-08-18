@@ -32,3 +32,5 @@ squash second commit
 
 test2 squash first commit 
 test2 squash second commit 
+branch test1 squash first commit 
+branch test1 squash second commit 
